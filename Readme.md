@@ -13,7 +13,7 @@
 
 
 ## General Information
-- The assigment is about predicting the noof bike rentals a company would do on a particular day
+- This  is about predicting the noof bike rentals a company would do on a particular day
 - The model used to predict the target variable is regression model , the metric used to measure goodness of fit is r-squared
 - The p-values of coefficients were taken into consideration before eliminating any features . 
 - MinMax Scaler was used for scaling numerical data
